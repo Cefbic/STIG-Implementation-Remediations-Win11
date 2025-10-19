@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Ensure Kernel DMA Protection policy DeviceEnumerationPolicy is set to 0
+    This PowerShell Script Ensure Kernel DMA Protection policy DeviceEnumerationPolicy is set to 0
 
 .NOTES
     Author          : Monsif Bichara
