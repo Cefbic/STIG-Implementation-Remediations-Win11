@@ -8,4 +8,4 @@ STIGs are developed by the **Defense Information Systems Agency (DISA)** and are
 
 This repository is focused on automating the remediation of **STIGs** on Windows operating systems using **PowerShell scripts**. The scripts are designed to address specific security requirements outlined in each **STIG ID** and can be run in environments that need to adhere to DoD or similar security standards. 
 
-Keep reading to see an example of how I handled a STIG implementation using PowerShell scripts for automation, and also the benefits of using automated remediation vs manual remediation. For detailed information on individual STIGs and their associated remediations, I made use of **[stigaview.com](https://stigaview.com/products/win11/v2r3/)**, a comprehensive resource that provides in-depth insights into each STIG.
+Keep reading to see an example of how I handled a STIG implementation using PowerShell scripts for automation, I made use of **[stigaview.com](https://stigaview.com/products/win11/v2r3/)**, a comprehensive resource that provides in-depth insights into each STIG.
