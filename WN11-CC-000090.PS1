@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script Ensure WinRM client does not use Digest authentication
+    This PowerShell script Ensure Group Policy refresh does not disable processing of GPO list changes (NoGPOListChanges = 0)
 
 .NOTES
     Author          : Monsif Bichara
